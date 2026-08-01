@@ -2,19 +2,29 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+title: "Mehrnaz Hosseinzadeh"
+first_name: "Mehrnaz"
+middle_name:
+last_name: "Hosseinzadeh"
+keywords: medical-doctor, computational-neuroscience, clinical-research, biomedical-data, mentorship, jekyll, al-folio
+icon: 🧠
 
-url: https://george-gca.github.io # the base hostname & protocol for your site
-baseurl: /multi-language-al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
+url: "https://mehrnazh.github.io"
+baseurl: ""
+last_updated: true
+impressum_path: 
+back_to_top: true 
 
+# Social links
+scholar_userid: "o6KC83UAAAAJ"
+github_username: "mehrnazh"
+
+# -----------------------------------------------------------------------------
+# Multilingual Configuration
+# -----------------------------------------------------------------------------
+languages: ["en", "fa"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "assets"]
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
