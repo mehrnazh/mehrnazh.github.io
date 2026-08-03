@@ -1,164 +1,164 @@
 archive:
-  prefix: une archive de
-  category_suffix: dans cette catégorie
-  tag_suffix: avec ce tag
-  year_suffix: de cette année
+  prefix: آرشیو
+  category_suffix: در این دسته‌بندی
+  tag_suffix: با این برچسب
+  year_suffix: مربوط به این سال
 bibliography:
-  abstract: résumé
-  awarded: prix
-  blog: blogue
-  book_prefix: dans
-  code: code
-  last_author_prefix: et
-  poster: affiche
-  slides: diapos
-  supp: supp
-  video: vidéo
-  website: site web
+  abstract: چکیده
+  awarded: برنده جایزه
+  blog: وبلاگ
+  book_prefix: در
+  code: کد
+  last_author_prefix: و
+  poster: پوستر
+  slides: اسلایدها
+  supp: ضمیمه
+  video: ویدیو
+  website: وب‌سایت
 blog:
-  navigation_title: blogue
+  navigation_title: وبلاگ
 categories:
-  fun: extra
-  work: travail
+  fun: متفرقه
+  work: کاری
 citation:
-  bibtex: "ou comme entrée BibTeX:"
-  introduction: "Si vous avez trouvé cela utile, veuillez le citer comme suit:"
+  bibtex: "یا به عنوان مدخل BibTeX:"
+  introduction: "اگر این مطلب برای شما مفید بود، لطفاً به شکل زیر ارجاع دهید:"
 collections:
-  books: livres
-  posts: articles
-contact_note: Vous pouvez même ajouter une petite note indiquant lequel de ces moyens est le meilleur pour vous joindre.
+  books: کتاب‌ها
+  posts: پست‌ها
+contact_note: می‌توانید توضیحات کوتاهی اضافه کنید که کدام یک از این راه‌ها برای ارتباط با شما بهتر است.
 cv:
-  address: adresse
-  area: région
-  awarder: récipient(e)
-  awards: prixs
-  basics: informations générales
-  certificates: certificats
-  city: ville
-  countryCode: paysCode
-  courses: cours
-  date: date
-  education: éducation
-  email: courriel
-  endDate: date de fin
-  fluency: maîtrise
-  highlights: points clés
-  image: image
-  institution: institution
-  interests: intérêts
-  issuer: émetteur
-  keywords: mots-clés
-  label: poste
-  language: langue
-  languages: langues
-  level: niveau
-  location: emplacement
-  name: nom
-  network: réseau
-  organization: organisation
-  phone: téléphone
-  position: poste
-  postalCode: code postal
-  present: Présent
-  profiles: profils
-  projects: projets
-  publications: publications
-  publisher: éditeur
-  reference: référence
-  references: références
-  region: région
-  releaseDate: date de publication
-  score: score
-  skills: compétences
-  startDate: date de début
-  studyType: "domaine d'études"
-  summary: résumé
-  table_of_contents: table des matières
-  title: titre
-  url: site web
-  username: nom d'utilisateur
-  volunteer: bénévolat
-  work: travail
+  address: آدرس
+  area: زمینه فعالیت
+  awarder: اعطا‌کننده
+  awards: جوایز
+  basics: اطلاعات عمومی
+  certificates: گواهینامه‌ها
+  city: شهر
+  countryCode: کد کشور
+  courses: دوره‌ها
+  date: تاریخ
+  education: تحصیلات
+  email: ایمیل
+  endDate: تاریخ پایان
+  fluency: میزان تسلط
+  highlights: نکات برجسته
+  image: تصویر
+  institution: موسسه
+  interests: علاقه‌مندی‌ها
+  issuer: صادرکننده
+  keywords: کلیدواژه‌ها
+  label: عنوان شغلی
+  language: زبان
+  languages: زبان‌ها
+  level: سطح
+  location: موقعیت مکانی
+  name: نام
+  network: شبکه
+  organization: سازمان
+  phone: تلفن
+  position: موقعیت شغلی
+  postalCode: کد پستی
+  present: اکنون
+  profiles: پروفایل‌ها
+  projects: پروژه‌ها
+  publications: انتشارات
+  publisher: ناشر
+  reference: مرجع
+  references: مراجع
+  region: منطقه
+  releaseDate: تاریخ انتشار
+  score: امتیاز
+  skills: مهارت‌ها
+  startDate: تاریخ شروع
+  studyType: رشته تحصیلی
+  summary: خلاصه
+  table_of_contents: فهرست مطالب
+  title: عنوان
+  url: وب‌سایت
+  username: نام کاربری
+  volunteer: فعالیت‌های داوطلبانه
+  work: سوابق کاری
 footer:
-  copyright: "Droits d'auteur"
-  last_updated: "Dernière mise à jour le "
-footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-  Propulsé par <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> avec le thème <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
-  Hébergé par <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos de <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-latest_posts: derniers articles
+  copyright: "تمامی حقوق محفوظ است"
+  last_updated: "آخرین به‌روزرسانی در "
+footer_text: > # علامت ">" یعنی خطوط بعدی تا رسیدن به کلید بعدی سرهم شوند
+  قدرت‌گرفته از <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> با پوسته <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
+  میزبانی‌شده روی <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  تصاویر از <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+latest_posts: آخرین پست‌ها
 months:
   long:
-    january: janvier
-    february: février
-    march: mars
-    april: avril
-    may: mai
-    june: juin
-    july: juillet
-    august: août
-    september: septembre
-    october: octobre
-    november: novembre
-    december: décembre
+    january: ژانویه
+    february: فوریه
+    march: مارس
+    april: آوریل
+    may: مه
+    june: ژوئن
+    july: ژوئیه
+    august: اوت
+    september: سپتامبر
+    october: اکتبر
+    november: نوامبر
+    december: دسامبر
   short:
-    january: jan
-    february: fév
-    march: mar
-    april: avr
-    may: mai
-    june: jun
-    july: jul
-    august: aoû
-    september: sep
-    october: oct
-    november: nov
-    december: déc
-news: actualités
+    january: ژانویه
+    february: فوریه
+    march: مارس
+    april: آوریل
+    may: مه
+    june: ژوئن
+    july: ژوئیه
+    august: اوت
+    september: سپتامبر
+    october: اکتبر
+    november: نوامبر
+    december: دسامبر
+news: اخبار
 newsletter:
-  back: retour
-  error: "Oups ! Quelque chose s'est mal passé, veuillez réessayer."
-  subscribe: "s'abonner"
-  subscribed: "Vous vous êtes abonné(e) à la newsletter avec succès."
-  subscribe_to_receive: "Abonnez-vous pour être informé(e) des prochains articles:"
-  too_many_signups: "Trop d'inscriptions, veuillez réessayer plus tard."
-  wait: "Veuillez patienter..."
-no_news: "Aucune actualité pour l'instant..."
-no_posts: "Aucun article pour le moment..."
+  back: بازگشت
+  error: "خطایی رخ داد، لطفاً دوباره تلاش کنید."
+  subscribe: "عضویت"
+  subscribed: "شما با موفقیت در خبرنامه عضو شدید."
+  subscribe_to_receive: "برای دریافت اخبار و پست‌های جدید عضو شوید:"
+  too_many_signups: "تعداد درخواست‌ها بیش از حد مجاز است، لطفاً بعداً تلاش کنید."
+  wait: "لطفاً شکیبا باشید..."
+no_news: "در حال حاضر خبری ثبت نشده است..."
+no_posts: "در حال حاضر پستی وجود ندارد..."
 pagination:
-  page: page
+  page: صفحه
 post:
-  created_in: Créé le
-  created_by: par
-  last_updated: "Dernière mise à jour le "
-references: références
+  created_in: نوشته‌شده در
+  created_by: توسط
+  last_updated: "آخرین به‌روزرسانی در "
+references: مراجع
 related_posts:
-  description: "Voici d'autres articles que vous pourriez aimer lire ensuite :"
-  title: "Vous avez aimé lire cet article ?"
+  description: "پست‌های دیگری که ممکن است به خواندن آن‌ها علاقه داشته باشید:"
+  title: "از خواندن این مطلب لذت بردید؟"
 search:
   dark_theme:
-    description: changer le thème du site en sombre
-    title: changer le thème en sombre
-  dropdown: déroulant
-  email: envoyer un courriel
+    description: تغییر پوسته سایت به حالت تاریک
+    title: تغییر به حالت تاریک
+  dropdown: منوی کشویی
+  email: ارسال ایمیل
   footer:
-    close: fermer
-    navigate: naviguer
-    parent: revenir au parent
-    select: sélectionner
-  languages: langues
+    close: بستن
+    navigate: پیمایش
+    parent: بازگشت به منوی اصلی
+    select: انتخاب
+  languages: زبان‌ها
   light_theme:
-    description: changer le thème du site en clair
-    title: changer le thème en clair
-  navigation: menu de navigation
-  news: actualités
-  placeholder: Tapez pour commencer la recherche
-  posts: articles
-  projects: projets
-  socials: réseaux sociaux
+    description: تغییر پوسته سایت به حالت روشن
+    title: تغییر به حالت روشن
+  navigation: منوی navigation
+  news: اخبار
+  placeholder: برای جستجو تایپ کنید
+  posts: پست‌ها
+  projects: پروژه‌ها
+  socials: شبکه‌های اجتماعی
   system_theme:
-    description: changer le thème du site selon le système par défaut
-    title: utiliser le thème par défaut du système
-  theme: thème
-selected_publications: publications sélectionnées
-site_description: Un thème simple et épuré pour les académiques. Basé sur le design de [*folio](https://github.com/bogoli/-folio).
+    description: هماهنگی پوسته سایت با تنظیمات سیستم
+    title: استفاده از پوسته پیش‌فرض سیستم
+  theme: پوسته
+selected_publications: انتشارات برگزیده
+site_description: قالبی ساده و کاربردی برای پژوهشگران و دانشگاهیان. بر پایه طراحی [*folio](https://github.com/bogoli/-folio).
