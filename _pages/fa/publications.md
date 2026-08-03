@@ -1,11 +1,12 @@
 ---
 page_id: publications
 layout: page
-permalink: /publications/
-title: publicações
-description: publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.
+permalink: /fa/publications/
+title: انتشارات
+description: انتشارات به تفکیک دسته‌بندی و به ترتیب زمانی معکوس.
 nav: true
 nav_order: 2
+lang: fa
 ---
 
 <!-- _pages/publications.md -->
