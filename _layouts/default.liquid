@@ -1,5 +1,6 @@
 <!doctype html>
-<html lang="{{ site.active_lang }}">
+{% assign current_lang = page.lang | default: site.active_lang | default: site.lang %}
+<html lang="{{ current_lang }}" dir="{% if current_lang == 'fa' or current_lang == 'ar' %}rtl{% else %}ltr{% endif %}">
   <!-- Head -->
   <head>
     {% if page.redirect %}
@@ -17,7 +18,28 @@
       {% endif %}
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
+
     {% include head.liquid %}
+
+    {% if current_lang == 'fa' or current_lang == 'ar' %}
+      <!-- Inline RTL adjustments for Farsi support -->
+      <style>
+        html[dir="rtl"] {
+          text-align: right;
+        }
+        html[dir="rtl"] .dropdown-menu {
+          text-align: right;
+        }
+        html[dir="rtl"] .ml-auto, html[dir="rtl"] .ms-auto {
+          margin-right: auto !important;
+          margin-left: 0 !important;
+        }
+        html[dir="rtl"] .mr-auto, html[dir="rtl"] .me-auto {
+          margin-left: auto !important;
+          margin-right: 0 !important;
+        }
+      </style>
+    {% endif %}
   </head>
 
   <!-- Body -->
