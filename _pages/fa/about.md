@@ -3,6 +3,8 @@ page_id: about
 layout: about
 title: درباره من
 permalink: /fa/
+nav: true
+nav_order: 1
 subtitle: <a href='#'>وابستگی سازمانی / دانشگاه</a>. آدرس. اطلاعات تماس. شعار یا متن دلخواه.
 
 profile:
