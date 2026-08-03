@@ -20,7 +20,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/fa/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-درباره-من",
+          title: "درباره من",
+          description: "",
+          section: "منوی navigation",
+          handler: () => {
+            window.location.href = "/fa/fa/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "um tema simples para acadêmicos",
           section: "منوی navigation",
