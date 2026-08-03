@@ -1,27 +1,37 @@
 ---
 page_id: about
 layout: about
-title: sobre
-permalink: /
-subtitle: <a href='#'>Afiliações</a>. Endereço. Contatos. Lema. Etc.
+title: درباره من
+permalink: /fa/
+subtitle: <a href='#'>وابستگی سازمانی / دانشگاه</a>. آدرس. اطلاعات تماس. شعار یا متن دلخواه.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false # تصویر را به صورت دایره‌ای برش می‌دهد
   more_info: >
-    <p>555 seu telefone do trabalho</p>
-    <p>123 seu endereço</p>
-    <p>Sua cidade, estado 12345</p>
+    <p>شماره اتاق یا دفتر کار</p>
+    <p>آدرس خیابان و محل کار</p>
+    <p>نام شهر، استان و کد پستی</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true # فهرستی از مقالاتی که عبارت "selected={true}" دارند را نمایش می‌دهد
+social: true # آیکون‌های شبکه‌های اجتماعی را در پایین صفحه فعال می‌کند
+
+announcements:
+  enabled: true # اعلانات و اخبار را فعال می‌کند
+  scrollable: true # در صورت وجود بیش از ۳ خبر، نوار اسکرول عمودی اضافه می‌کند
+  limit: 5 # خالی بگذارید تا تمام اخبار موجود در پوشه `_news` قرار گیرند
+
+latest_posts:
+  enabled: true
+  scrollable: true # در صورت وجود بیش از ۳ پست، نوار اسکرول عمودی اضافه می‌کند
+  limit: 3 # خالی بگذارید تا تمام پست‌های وبلاگ نمایش داده شوند
 ---
 
-Escreva sua biografia aqui. Diga ao mundo sobre você. Adicione o link para o seu [subreddit](http://reddit.com) favorito. Você pode colocar uma foto também. O código já está dentro, basta nomear sua foto como `prof_pic.jpg` e colocá-la na pasta `img/`.
+بیوگرافی و معرفی خود را اینجا بنویسید. درباره فعالیت‌ها، حوزه‌های پژوهشی و علایق خود با دنیا صحبت کنید. می‌توانید به صفحات مورد علاقه‌تان لینک دهید یا تصاویر مرتبط اضافه کنید. کد مربوط به عکس پروفایل آماده است؛ کافی است تصویر خود را با نام `prof_pic.jpg` در پوشه `assets/img/` قرار دهید.
 
-Coloque seu endereço / caixa postal / outras informações logo abaixo da sua foto. Você também pode desabilitar qualquer um desses elementos editando a propriedade `profile` do cabeçalho YAML do seu `_pages/about.md`. Edite `_bibliography/papers.bib` e o Jekyll renderizará sua [página de publicações](/multi-language-al-folio/publications/) automaticamente.
+اطلاعات تماس، آدرس یا صندوق پستی خود را دقیقاً زیر تصویر پروفایل وارد کنید. هر یک از این بخش‌ها را می‌توانید با تغییر بخش `profile` در تنظیمات بالای همین فایل (YAML header) غیرفعال کنید.
 
-Adicione links para seus perfis de mídias sociais também. Este tema está configurado para usar [Font Awesome icons](https://fontawesome.com/) e [Academicons](https://jpswalsh.github.io/academicons/), como os visto abaixo. Adicione seu Facebook, Twitter, LinkedIn, Google Scholar ou simplesmente desative todos eles.
+همچنین فایل `_bibliography/papers.bib` را ویرایش کنید تا Jekyll به صورت خودکار صفحه [انتشارات و مقالات](/publications/) شما را رندر کند.
+
+شبکه‌های اجتماعی خود را پیوند دهید. این پوسته برای نمایش آیکون‌ها از [Font Awesome](https://fontawesome.com/) و [Academicons](https://jpswalsh.github.io/academicons/) پشتیبانی می‌کند. می‌توانید لینک‌های گوگل اسکالر، لینکدین، گیت‌هاب یا سایر حساب‌های خود را تنظیم کرده یا در صورت تمایل آن‌ها را غیرفعال کنید.
