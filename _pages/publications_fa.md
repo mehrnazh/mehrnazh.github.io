@@ -1,7 +1,7 @@
 ---
 page_id: publications
 layout: page
-permalink: /fa/publications/
+permalink: /publications/
 title: انتشارات
 description: انتشارات به تفکیک دسته‌بندی و به ترتیب زمانی معکوس.
 nav: true

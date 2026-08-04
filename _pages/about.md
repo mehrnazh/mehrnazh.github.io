@@ -3,8 +3,8 @@ page_id: about
 layout: about
 title: about
 permalink: /
-nav: true
-nav_order: 1
+# nav: true
+# nav_order: 1
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
