@@ -29,7 +29,7 @@ ninja.data = [{
           },
         },{id: "nav-blog",
           title: "blog",
-          description: "a simple whitespace theme for academics",
+          description: "um tema simples para acadêmicos",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/blog/";
@@ -50,14 +50,14 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-ensino",
+          title: "ensino",
+          description: "Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/teaching/";
