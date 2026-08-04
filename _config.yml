@@ -19,12 +19,22 @@ back_to_top: true
 scholar_userid: "o6KC83UAAAAJ"
 github_username: "mehrnazh"
 
+
 # -----------------------------------------------------------------------------
-# Multilingual Configuration
+# Jekyll Polyglot
 # -----------------------------------------------------------------------------
 languages: ["en", "fa"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css", "assets"]
+lang_from_path: true
+country_flag: false # set true for allowing flag symbol in language toggle
+parallel_localization: false
+
+
+# languages: ["en-us", "pt-br", "fr-ca"]
+# default_lang: "en-us"
+# exclude_from_localization: ["assets"]
+
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
@@ -374,16 +384,7 @@ external_links:
   target: _blank
   exclude:
 
-# # -----------------------------------------------------------------------------
-# # Jekyll Polyglot
-# # -----------------------------------------------------------------------------
 
-# languages: ["en-us", "pt-br", "fr-ca"]
-# default_lang: "en-us"
-# exclude_from_localization: ["assets"]
-# lang_from_path: true
-# country_flag: false # set true for allowing flag symbol in language toggle
-# parallel_localization: false
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
