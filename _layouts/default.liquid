@@ -24,17 +24,19 @@
     {% if current_lang == 'fa' or current_lang == 'ar' %}
       <!-- Inline RTL adjustments for Farsi support -->
       <style>
-        html[dir="rtl"] {
+        html[dir='rtl'] {
           text-align: right;
         }
-        html[dir="rtl"] .dropdown-menu {
+        html[dir='rtl'] .dropdown-menu {
           text-align: right;
         }
-        html[dir="rtl"] .ml-auto, html[dir="rtl"] .ms-auto {
+        html[dir='rtl'] .ml-auto,
+        html[dir='rtl'] .ms-auto {
           margin-right: auto !important;
           margin-left: 0 !important;
         }
-        html[dir="rtl"] .mr-auto, html[dir="rtl"] .me-auto {
+        html[dir='rtl'] .mr-auto,
+        html[dir='rtl'] .me-auto {
           margin-left: auto !important;
           margin-right: 0 !important;
         }
