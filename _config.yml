@@ -19,7 +19,6 @@ back_to_top: true
 scholar_userid: "o6KC83UAAAAJ"
 github_username: "mehrnazh"
 
-
 # -----------------------------------------------------------------------------
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
@@ -29,7 +28,6 @@ exclude_from_localization: ["javascript", "images", "css", "assets"]
 lang_from_path: true
 country_flag: false # set true for allowing flag symbol in language toggle
 parallel_localization: false
-
 
 # languages: ["en-us", "pt-br", "fr-ca"]
 # default_lang: "en-us"
@@ -383,8 +381,6 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
-
-
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
