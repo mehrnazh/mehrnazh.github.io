@@ -14,20 +14,13 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-درباره-من",
+    title: "درباره من",
     section: "منوی navigation",
     handler: () => {
       window.location.href = "/fa/";
     },
-  },{id: "nav-about",
-          title: "about",
-          description: "",
-          section: "منوی navigation",
-          handler: () => {
-            window.location.href = "/fa/";
-          },
-        },{id: "nav-blog",
+  },{id: "nav-blog",
           title: "blog",
           description: "um tema simples para acadêmicos",
           section: "منوی navigation",
@@ -39,7 +32,7 @@ ninja.data = [{
           description: "انتشارات به تفکیک دسته‌بندی و به ترتیب زمانی معکوس.",
           section: "منوی navigation",
           handler: () => {
-            window.location.href = "/fa/fa/publications/";
+            window.location.href = "/fa/publications/";
           },
         },{id: "nav-پروژه-ها",
           title: "پروژه‌ها",
