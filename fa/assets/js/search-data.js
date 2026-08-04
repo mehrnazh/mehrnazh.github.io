@@ -34,19 +34,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/fa/blog/";
           },
-        },{id: "nav-publicações",
-          title: "publicações",
-          description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
+        },{id: "nav-انتشارات",
+          title: "انتشارات",
+          description: "انتشارات به تفکیک دسته‌بندی و به ترتیب زمانی معکوس.",
           section: "منوی navigation",
           handler: () => {
-            window.location.href = "/fa/publications/";
+            window.location.href = "/fa/fa/publications/";
           },
-        },{id: "nav-projetos",
-          title: "projetos",
-          description: "Uma crescente coleção de seus projetos interessantes.",
+        },{id: "nav-پروژه-ها",
+          title: "پروژه‌ها",
+          description: "مجموعه‌ای در حال رشد از پروژه‌های جذاب.",
           section: "منوی navigation",
           handler: () => {
-            window.location.href = "/fa/projects/";
+            window.location.href = "/fa/fa/projects/";
           },
         },{id: "nav-cv",
           title: "cv",
