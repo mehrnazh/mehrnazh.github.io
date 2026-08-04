@@ -14,22 +14,22 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-about",
+    title: "about",
     section: "Navigation menu",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-درباره-من",
-          title: "درباره من",
+  },{id: "nav-about",
+          title: "about",
           description: "",
           section: "Navigation menu",
           handler: () => {
-            window.location.href = "/fa/";
+            window.location.href = "/";
           },
         },{id: "nav-blog",
           title: "blog",
-          description: "um tema simples para acadêmicos",
+          description: "a simple whitespace theme for academics",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/blog/";
@@ -50,14 +50,14 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
+          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-ensino",
-          title: "ensino",
-          description: "Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.",
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/teaching/";
