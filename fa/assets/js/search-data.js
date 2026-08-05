@@ -418,12 +418,7 @@ ninja.data = [{
             window.location.href = "/fa/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "",handler: () => {
-              window.location.href = "/fa/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
+      },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "اخبار",},{id: "news-a-long-announcement-with-details",
