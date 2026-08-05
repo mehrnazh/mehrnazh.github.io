@@ -486,14 +486,42 @@ ninja.data = [{
         title: 'ارسال ایمیل',
         section: 'شبکه‌های اجتماعی',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6D%65%68%72%6E%61%7A%78%68%6F%73%73%65%69%6E%7A%61%64%65%68@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'شبکه‌های اجتماعی',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/mehrnazh", "_blank");
+        },
+      },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'شبکه‌های اجتماعی',
+        handler: () => {
+          window.open("https://instagram.com/https://www.instagram.com/mehrna.m/", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'شبکه‌های اجتماعی',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/mehrnaz-hosseinzadeh/", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'شبکه‌های اجتماعی',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-9647-6091", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'شبکه‌های اجتماعی',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Mehrnaz-Hosseinzadeh?ev=hdr_xprf/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -510,11 +538,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=o6KC83UAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-telegram',
+        title: 'telegram',
         section: 'شبکه‌های اجتماعی',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://telegram.me/https://t.me/Hosseinzadeh_MN", "_blank");
         },
       },{
           id: 'lang-en',
