@@ -1,101 +1,237 @@
-- title: Information Générales
+- title: اطلاعات پایه
   type: map
   contents:
-    - name: Nom complet
-      value: Albert Einstein
-    - name: Date de naissance
-      value: 14 mars 1879
-    - name: Langues
-      value: Anglais, Allemand
+    - name: دکتر مهرناز حسین‌زاده
+      label: پزشک و پژوهشگر
+      email: Mehrnazxhosseinzadeh@gmail.com
+      phone: "+98 9172095696"
+      location: تهران، ایران
+      summary: "پزشک و پژوهشگر بالینی با تخصص در علوم اعصاب محاسباتی، کاربردهای واقعیت مجازی (VR) در مراقبت‌های بهداشتی، تحریک غیرتهاجمی مغز و تصویربرداری عصبی."
 
-- title: Éducation
+- title: علایق پژوهشی
+  type: list
+  contents:
+    - "<strong>علوم اعصاب و روان‌پزشکی عصبی:</strong> ارزیابی شناختی، توانبخشی عصبی، تحریک غیرتهاجمی مغز (tDCS/tACS)، تصویربرداری عصبی."
+    - "<strong>فناوری پزشکی:</strong> کاربرد واقعیت مجازی/افزوده (VR/AR) در ارزیابی و درمان بیماری‌های انسانی، تعامل انسان و رایانه (HCI)."
+    - "<strong>هوش مصنوعی:</strong> تحلیل داده‌های پزشکی، راهکارهای مراقبت‌های بهداشتی مبتنی بر هوش مصنوعی."
+
+- title: تحصیلات
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sous-description 1.
-            - Sous-description 2.
-    - title: Brevet fédéral d'enseignement
-      institution: Eidgenössische Technische Hochschule, Zurich, Suisse
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: دکترای حرفه‌ای پزشکی (M.D.)
+      institution: دانشگاه علوم پزشکی فسا، فسا، ایران
+      year: ۲۰۱۶ – ۲۰۲۳
 
-- title: Expérience
+- title: سوابق حرفه‌ای
   type: time_table
   contents:
-    - title: Professeur de physique théorique
-      institution: Institut d'études avancées, Université de Princeton
-      year: 1933 - 1955
+    - title: مدیر آزمایشگاه واقعیت مجازی
+      institution: مرکز ملی نقشه‌برداری مغز، ایران
+      year: اکتبر ۲۰۲۳ – تاکنون
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "مدیریت عملیات روزانه آزمایشگاه واقعیت مجازی با تمرکز بر علوم اعصاب شناختی."
+        - "همکاری با تیمی چندرشته‌ای از مهندسان و روانشناسان برای طراحی پروتکل‌های آزمایشی."
+        - "<strong>پروژه:</strong> جعبه‌ابزارهای ایجاد آزمایش‌های واقعیت مجازی فراگیر در تحقیقات روان‌شناختی، رفتاری و شناختی (مرور دامنه‌ای)."
+        - "<strong>پروژه:</strong> توسعه روش شناسایی و کمی‌سازی لرزش دست با استفاده از واقعیت مجازی: مقایسه روش‌های درمانی (در حال انجام)."
+
+    - title: دستیار پژوهشی
+      institution: مرکز تحقیقات بهداشت روان، دانشگاه علوم پزشکی ایران، تهران، ایران
+      year: ۲۰۲۳ – ۲۰۲۵
+
+    - title: بنیان‌گذار و هماهنگ‌کننده اصلی
+      institution: حلقه علوم اعصاب فسا (FNC)، دانشگاه علوم پزشکی فسا، ایران
+      year: اکتبر ۲۰۱۸ – تاکنون
+      description:
+        - "تأسیس و مدیریت یک گروه پژوهشی دانشجویی در زمینه علوم اعصاب."
+        - "سازمان‌دهی دوره‌ای ژورنال کلاب‌ها، دوره‌های آکادمیک و طرح‌های پژوهشی."
+
+- title: سوابق تدریس
+  type: time_table
+  contents:
+    - title: دستیار آموزشی ارشد
+      institution: آکادمی نورومچ (دوره علوم اعصاب محاسباتی)
+      year: تابستان ۲۰۲۵
+      description:
+        - "هدایت جلسات آکادمیک برای مدرسه تابستانی بین‌المللی آنلاین."
+
+    - title: دستیار آموزشی
+      institution: آکادمی نورومچ (دوره علوم اعصاب محاسباتی)
+      year: ۲۰۲۱ – ۲۰۲۴
+      description:
+        - "فعالیت به عنوان دستیار آموزشی به مدت ۴ سال متوالی در یک برنامه فشرده بین‌المللی ۳ هفته‌ای."
+
+- title: سوابق بالینی و مجوزها
+  type: time_table
+  contents:
+    - title: کارورز پزشکی / پزشک عمومی
+      institution: بیمارستان‌های آموزشی، ایران
+      year: اکتبر ۲۰۲۱ – تاکنون
+      description:
+        - "گذراندن دوره‌های چرخشی بالینی در بخش‌های داخلی، مغز و اعصاب، و روان‌پزشکی."
+        - "مدیریت مراقبت مستقیم از بیمار، گرفتن شرح حال و انجام رویه‌های بالینی در محیط‌های پرمراجعه."
+        - "<strong>مجوز پزشکی:</strong> ثبت شده در سازمان نظام پزشکی ایران (شماره نظام پزشکی: ۲۱۱۷۹۵)."
+
+- title: افتخارات و جوایز
+  type: time_table
+  contents:
+    - title: دیپلم افتخار (انفرادی)
+      institution: چهاردهمین المپیاد علمی دانشجویان علوم پزشکی کشور (حیطه علوم پایه)
+      year: ۲۰۲۲
+      description: "رقابت معتبر علمی کشوری که توسط وزارت بهداشت ایران برای دانشجویان برتر پزشکی برگزار می‌شود."
+
+    - title: مدال برنز (تیمی) و دیپلم افتخار (انفرادی)
+      institution: سیزدهمین المپیاد علمی دانشجویان علوم پزشکی کشور (حیطه علوم پایه)
+      year: ۲۰۲۱
+
+    - title: مدال برنز (انفرادی)
+      institution: دهمین المپیاد علمی دانشجویان علوم پزشکی کشور (حیطه علوم پایه)
+      year: ۲۰۱۸
+
+    - title: مدال‌های برنز (۲ مدال)
+      institution: ششمین و هفتمین المپیاد دانش‌آموزی علوم و فناوری نانو
+      year: ۲۰۱۵ – ۲۰۱۶
+      description: "کسب مدال‌های متوالی در مسابقات معتبر پژوهش‌محور کشوری برای پژوهشگران جوان."
+
+- title: مقالات و پیش‌چاپ‌ها
+  type: list
+  contents:
+    - "Moshfeghinia, R., et al., <strong>Hosseinzadeh, M.</strong>, et al. <em>Cannabis Impact on Brain Microstructure and Macrostructure: An Umbrella Review.</em> (در دست داوری)."
+    - "<strong>Hosseinzadeh, M.</strong>, Naserbakht, M., Amini, M. F., et al. <em>Toolboxes for Creating Immersive Virtual Reality Experiments in Psychological, Behavioral, and Cognitive Research: A Scoping Review.</em> SSRN Preprint (۲۰۲۵)."
+    - "Meymand, E. Z., Hosseini, S. E., <strong>Hosseinzadeh, M.</strong>, et al. (۲۰۲۶). <em>Treatment of therapy-resistant OCD with application of transcranial alternating current stimulation (tACS): a case series.</em> BMC Psychiatry."
+    - "Moghadam Fard, T., <strong>Hosseinzadeh, M.</strong>, Shokri, M. A., Dooghaee, M. A., & Mirfazeli, F. S. (۲۰۲۵). <em>When Stroke Disguises as Dementia: A Case of Missed Cerebral Venous Thrombosis.</em> Clinical Case Reports."
+    - "Moshfeghinia, R., <strong>Hosseinzadeh, M.</strong>, Mostafavi, S., et al. (۲۰۲۴). <em>Recurrent cannabis-induced catatonia: a case report and comprehensive systematic literature review.</em> Frontiers in Psychiatry."
+    - "Moshfeghinia, R., Shekouh, D., Mostafavi, S., <strong>Hosseinzadeh, M.</strong>, et al. (۲۰۲۳). <em>The effects of transcranial direct-current stimulation (tDCS) on pain intensity of patients with fibromyalgia: a systematic review and meta-analysis.</em> BMC Neurology."
+    - "Moshfeghinia, R., Oji, B., <strong>Hosseinzadeh, M.</strong>, Pourfridoni, M., & Ahmadi, J. (۲۰۲۳). <em>Early onset frontotemporal dementia following cannabis abuse: a case report.</em> BMC Psychiatry."
+    - "Valizadeh, A., <strong>Hosseinzadeh, M.</strong>, Heiran, R., et al. (۲۰۲۳). <em>Alginate nanoparticles containing Lavandula angustifolia essential oil as a potential potent, biocompatible and low-cost antitumor agent.</em> Polymer Bulletin."
+    - "Mirahmadizadeh, A., Pourmontaseri, Z., Afrashteh, S., <strong>Hosseinzadeh, M.</strong>, et al. (۲۰۲۱). <em>Sensitivity and specificity of chest computed tomography scan based on RT-PCR in COVID-19 diagnosis.</em> Polish Journal of Radiology."
+    - "<strong>Hosseinzadeh, M.</strong>, Azhdehakosh, E., & Valibeygi, A. (۲۰۲۰). <em>Moral judgments in obsessive-compulsive disorder: a narrative mini-review.</em> Neuroscience Research Notes."
+    - "Valibeygi, A., <strong>Hosseinzadeh, M.</strong>, Abdollahifard, S., & Razmkon, A. (۲۰۲۲). <em>Deep Brain Stimulation for Alzheimer's Disease.</em> In: The Handbook of Neuromodulation (pp. 389-410). Nova Science Publishers."
+
+- title: مهارت‌های فنی و پژوهشی
+  type: nested_list
+  contents:
+    - title: توسعه و فناوری‌های واقعیت مجازی (VR)
+      subcontents:
+        - "نرم‌افزار Unity برای توسعه بازی‌های واقعیت مجازی و طراحی آزمایش."
+        - "برنامه‌نویسی سطح متوسط با زبان‌های C# و Python."
+    - title: روش‌شناسی پژوهش
+      subcontents:
+        - "طراحی کارآزمایی بالینی، مرور سیستماتیک، مرور دامنه‌ای، ارزیابی نقادانه مقالات و نگارش دست‌نوشته‌های علمی."
+    - title: آمار و تحلیل داده
+      subcontents:
+        - "آمار زیستی با استفاده از SPSS، Excel و Python برای تحلیل مجموعه‌داده‌های پیچیده پزشکی."
+    - title: زبان‌ها
+      subcontents:
+        - "فارسی (زبان مادری)"
+        - "انگلیسی (پیشرفته / آیلتس: ۷.۵)"
+        - "اسپانیایی (مبتدی / A2)"
+
+- title: معرف‌ها
+  type: list
+  contents:
+    - "<strong>دکتر فاطمه سادات میرفضلی</strong> — استادیار روان‌پزشکی، دانشگاه علوم پزشکی ایران (ایمیل: fsm6876@gmail.com)"
+    - "<strong>دکتر مرتضی ناصربخت</strong> — استادیار پزشکی اجتماعی، دانشگاه علوم پزشکی ایران (ایمیل: mnaserbakht@gmail.com)"
+
+- title: اطلاعات عمومی
+  type: map
+  contents:
+    - name: نام کامل
+      value: مهرناز حسین‌زاده
+    - name: تاریخ تولد
+      value: ۲۹ مهر ۱۳۷۸ (21st Oct 1999)
+    - name: زبان‌ها
+      value: انگلیسی، فارسی، اسپانیایی
+
+- title: تحصیلات (ادامه)
+  type: time_table
+  contents:
+    - title: دکترای حرفه‌ای پزشکی (M.D.)
+      institution: دانشگاه علوم پزشکی فسا، فسا، ایران
+      year: ۲۰۲۳
+      description:
+        - تکمیل کامل آموزش‌های بالینی و دوره کارورزی پزشکی در بیمارستان‌های آموزشی دانشگاه.
+        - مشارکت در پروژه‌های تحقیقاتی متعدد و چاپ مقالات در مجلات معتبر پزشکی.
+        - انجام تحقیقات بالینی آکادمیک و نگارش پایان‌نامه فارغ‌التحصیلی.
+        - title: حوزه‌های اصلی تمرکز:
           contents:
-            - Sous-description 1.
-            - Sous-description 2.
-    - title: Professeur invité
-      institution: Institut de technologie de Californie, Pasadena, Californie, États-Unis
-      year: 1933
+            - تحقیقات بالینی و علوم پزشکی انتقالی.
+            - مدیریت مراقبت از بیمار و درمان‌های مبتنی بر شواهد.
+    - title: دیپلم تدریس فدرال
+      institution: موسسه فناوری فدرال زوریخ (ETH)، زوریخ، سوئیس
+      year: ۱۹۰۰
       description:
-        - Description 1.
-        - Description 2.
+        - توضیحات ۱.
+        - توضیحات ۲.
 
-    - title: Directeur
-      institution: Institut Kaiser Wilhelm de physique, Berlin, Allemagne.
-      year: 1917-1933
-
-    - title: Professeur de physique théorique
-      institution: Université Karl-Ferdinand, Prague, Tchécoslovaquie
-      year: 1911 - 1917
+- title: سوابق کاری (نمونه)
+  type: time_table
+  contents:
+    - title: استاد فیزیک نظری
+      institution: موسسه مطالعات پیشرفته، دانشگاه پرینستون
+      year: ۱۹۳۳ - ۱۹۵۵
       description:
+        - توضیحات ۱.
+        - توضیحات ۲.
+        - title: توضیحات ۳.
+          contents:
+            - زیرمجموعه توضیحات ۱.
+            - زیرمجموعه توضیحات ۲.
 
-    - title: Professeur associé de physique théorique
-      institution: Université de Zurich, Zurich, Suisse
-      year: 1909 - 1911
+    - title: استاد مدعو
+      institution: موسسه فناوری کالیفرنیا (Caltech)، پاسادنا، کالیفرنیا، ایالات متحده
+      year: ۱۹۳۳
+      description:
+        - توضیحات ۱.
+        - توضیحات ۲.
 
-- title: Projets Open Source
+    - title: مدیر
+      institution: موسسه فیزیک قیصر ویلهلم، برلین، آلمان.
+      year: ۱۹۱۷-۱۹۳۳
+
+    - title: استاد فیزیک نظری
+      institution: دانشگاه کارل فردیناند، پراگ، چکسلواکی
+      year: ۱۹۱۱ - ۱۹۱۷
+      description: null
+
+    - title: دانشیار فیزیک نظری
+      institution: دانشگاه زوریخ، زوریخ، سوئیس
+      year: ۱۹۰۹ - ۱۹۱۱
+
+- title: پروژه‌های متن‌باز
   type: time_table
   contents:
     - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
-      year: 2023-présent
-      description: Un fork du thème al-folio avec prise en charge de plusieurs langues.
+      year: ۲۰۲۳-تاکنون
+      description: یک فورک از قالب al-folio با پشتیبانی از چند زبان.
 
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-présent
-      description: Un thème Jekyll magnifique, simple, propre et réactif pour les universitaires.
+      year: ۲۰۱۵-تاکنون
+      description: یک قالب زیبا، ساده، تمیز و واکنش‌گرا برای دانشگاهیان در پلتفرم Jekyll.
 
-- title: Prixs et Bourses
+- title: سایر افتخارات و جوایز
   type: time_table
   contents:
-    - year: 1921
+    - year: ۱۹۲۱
       items:
-        - Prix Nobel de physique
-        - Médaille Matteucci
-    - year: 2029
+        - جایزه نوبل فیزیک
+        - مدال ماتوچی
+    - year: ۲۰۲۹
       items:
-        - Médaille Max Planck
+        - مدال ماکس پلانک
 
-- title: Intérêts académiques
+- title: علایق آکادمیک
   type: nested_list
   contents:
-    - title: Sujet 1.
+    - title: موضوع ۱.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Sujet 2.
+        - توضیحات ۱.
+        - توضیحات ۲.
+    - title: موضوع ۲.
       items:
-        - Description 1.
-        - Description 2.
+        - توضیحات ۱.
+        - توضیحات ۲.
 
-- title: Autres Intérêts
+- title: سایر علایق
   type: list
   contents:
-    - <u>Loisirs:</u> Loisir 1, Loisir 2, etc.
+    - <u>سرگرمی‌ها:</u> سرگرمی ۱، سرگرمی ۲، و غیره.
