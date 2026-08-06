@@ -1,26 +1,161 @@
-- title: General Information
+- title: Basics
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Mehrnaz Hosseinzadeh, M.D.
+      label: Medical Doctor & Researcher
+      email: Mehrnazxhosseinzadeh@gmail.com
+      phone: "+98 9172095696"
+      location: Tehran, Iran
+      summary: "Medical Doctor and Clinical Researcher specializing in Computational Neuroscience, Virtual Reality (VR) applications in healthcare, non-invasive brain stimulation, and neuroimaging."
+
+- title: Research Interests
+  type: list
+  contents:
+    - "<strong>Neuroscience & Neuropsychiatry:</strong> Cognitive assessment, Neuro-rehabilitation, Non-Invasive Brain Stimulation (tDCS/tACS), Neuroimaging."
+    - "<strong>Medical Technology:</strong> Application of VR/AR in assessment and treatment of human conditions, Human-Computer Interaction (HCI)."
+    - "<strong>Artificial Intelligence:</strong> Medical data analysis, AI-driven healthcare solutions."
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Medicine (M.D.)
+      institution: Fasa University of Medical Sciences, Fasa, Iran
+      year: 2016 – 2023
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: VR Lab Manager
+      institution: National Brain Centre, Iran
+      year: Oct 2023 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "Managed daily operations of the Virtual Reality lab focused on cognitive neuroscience."
+        - "Collaborated with a multidisciplinary team of engineers and psychologists to design experimental protocols."
+        - "<strong>Project:</strong> Toolboxes for Creating Immersive Virtual Reality Experiments in Psychological Research (Scoping Review)."
+        - "<strong>Project:</strong> Development of hand tremor identification and quantification method using virtual reality: comparison of treatment methods (Ongoing)."
+
+    - title: Research Assistant
+      institution: Mental Health Research Center, Iran University of Medical Sciences, Tehran, Iran
+      year: 2023 – 2025
+
+    - title: Founder and Lead Coordinator
+      institution: Fasa Neuroscience Circle (FNC), Fasa University of Medical Sciences, Iran
+      year: Oct 2018 – Present
+      description:
+        - "Established and managed a student-based research group for Neuroscience."
+        - "Organized periodic journal clubs, academic courses, and research initiatives."
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Lead Teaching Assistant
+      institution: Neuromatch Academy (Computational Neuroscience Course)
+      year: Summer 2025
+      description:
+        - "Led academic sessions for the international online summer school."
+
+    - title: Teaching Assistant
+      institution: Neuromatch Academy (Computational Neuroscience Course)
+      year: 2021 – 2024
+      description:
+        - "Served as Teaching Assistant for 4 consecutive years in an intensive 3-week annual international program."
+
+- title: Clinical Experience & Licensing
+  type: time_table
+  contents:
+    - title: Medical Intern / General Practitioner
+      institution: Teaching Hospitals, Iran
+      year: Oct 2021 – Present
+      description:
+        - "Completed clinical rotations in Internal Medicine, Neurology, and Psychiatry."
+        - "Managed direct patient care, history taking, and clinical procedures in high-volume settings."
+        - "<strong>Medical License:</strong> Registered with the Iranian Medical Council (IRIMC License No. 211795)."
+
+- title: Honors & Awards
+  type: time_table
+  contents:
+    - title: Honor Diploma (Individual)
+      institution: 14th National Olympiad of Medical Sciences (Basic Sciences)
+      year: 2022
+      description: "Prestigious nationwide academic competition organized by the Iranian Ministry of Health for top medical students."
+
+    - title: Bronze Medal (Team) & Honor Diploma (Individual)
+      institution: 13th National Olympiad of Medical Sciences (Basic Sciences)
+      year: 2021
+
+    - title: Bronze Medal (Individual)
+      institution: 10th National Olympiad of Medical Sciences (Basic Sciences)
+      year: 2018
+
+    - title: Bronze Medals (2x)
+      institution: 6th & 7th National Olympiad of Nanotechnology
+      year: 2015 – 2016
+      description: "Secured consecutive medals in Iran's research-based competition for young scientists."
+
+- title: Publications & Preprints
+  type: list
+  contents:
+    - "Moshfeghinia, R., et al., <strong>Hosseinzadeh, M.</strong>, et al. <em>Cannabis Impact on Brain Microstructure and Macrostructure: An Umbrella Review.</em> (Under Review)."
+    - "<strong>Hosseinzadeh, M.</strong>, Naserbakht, M., Amini, M. F., et al. <em>Toolboxes for Creating Immersive Virtual Reality Experiments in Psychological, Behavioral, and Cognitive Research: A Scoping Review.</em> SSRN Preprint (2025)."
+    - "Meymand, E. Z., Hosseini, S. E., <strong>Hosseinzadeh, M.</strong>, et al. (2026). <em>Treatment of therapy-resistant OCD with application of transcranial alternating current stimulation (tACS): a case series.</em> BMC Psychiatry."
+    - "Moghadam Fard, T., <strong>Hosseinzadeh, M.</strong>, Shokri, M. A., Dooghaee, M. A., & Mirfazeli, F. S. (2025). <em>When Stroke Disguises as Dementia: A Case of Missed Cerebral Venous Thrombosis.</em> Clinical Case Reports."
+    - "Moshfeghinia, R., <strong>Hosseinzadeh, M.</strong>, Mostafavi, S., et al. (2024). <em>Recurrent cannabis-induced catatonia: a case report and comprehensive systematic literature review.</em> Frontiers in Psychiatry."
+    - "Moshfeghinia, R., Shekouh, D., Mostafavi, S., <strong>Hosseinzadeh, M.</strong>, et al. (2023). <em>The effects of transcranial direct-current stimulation (tDCS) on pain intensity of patients with fibromyalgia: a systematic review and meta-analysis.</em> BMC Neurology."
+    - "Moshfeghinia, R., Oji, B., <strong>Hosseinzadeh, M.</strong>, Pourfridoni, M., & Ahmadi, J. (2023). <em>Early onset frontotemporal dementia following cannabis abuse: a case report.</em> BMC Psychiatry."
+    - "Valizadeh, A., <strong>Hosseinzadeh, M.</strong>, Heiran, R., et al. (2023). <em>Alginate nanoparticles containing Lavandula angustifolia essential oil as a potential potent, biocompatible and low-cost antitumor agent.</em> Polymer Bulletin."
+    - "Mirahmadizadeh, A., Pourmontaseri, Z., Afrashteh, S., <strong>Hosseinzadeh, M.</strong>, et al. (2021). <em>Sensitivity and specificity of chest computed tomography scan based on RT-PCR in COVID-19 diagnosis.</em> Polish Journal of Radiology."
+    - "<strong>Hosseinzadeh, M.</strong>, Azhdehakosh, E., & Valibeygi, A. (2020). <em>Moral judgments in obsessive-compulsive disorder: a narrative mini-review.</em> Neuroscience Research Notes."
+    - "Valibeygi, A., <strong>Hosseinzadeh, M.</strong>, Abdollahifard, S., & Razmkon, A. (2022). <em>Deep Brain Stimulation for Alzheimer's Disease.</em> In: The Handbook of Neuromodulation (pp. 389-410). Nova Science Publishers."
+
+- title: Technical & Research Skills
+  type: nested_list
+  contents:
+    - title: Development & VR Technologies
+      subcontents:
+        - "Unity software for Virtual Reality (VR) game development and experimental design."
+        - "Intermediate programming in C# and Python."
+    - title: Research Methodology
+      subcontents:
+        - "Clinical trial design, systematic reviews, scoping reviews, critical appraisal, and manuscript drafting."
+    - title: Statistical & Data Analysis
+      subcontents:
+        - "Biostatistics using SPSS, Excel, and Python for complex medical datasets."
+    - title: Languages
+      subcontents:
+        - "Persian (Native)"
+        - "English (Advanced / IELTS: 7.5)"
+        - "Spanish (Elementary / A2)"
+
+- title: References
+  type: list
+  contents:
+    - "<strong>Dr. Fatemeh Sadat Mirfazeli</strong> — Assistant Professor of Psychiatry, Iran University of Medical Sciences (Email: fsm6876@gmail.com)"
+    - "<strong>Dr. Morteza Naserbakht</strong> — Assistant Professor of Social Medicine, Iran University of Medical Sciences (Email: mnaserbakht@gmail.com)"
+
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Mehrnaz Hosseinzadeh
+    - name: Date of Birth
+      value: 21st Oct 1999
+    - name: Languages
+      value: English, Farsi, Spanish
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Doctor of Medicine (M.D.)
+      institution: Fasa University of Medical Sciences, Fasa, Iran
+      year: 2023
+      description:
+        - Completed full clinical training and medical internship across university teaching hospitals.
+        - Engaged in various research projects and published articles in reputable medical journals.
+        - Conducted academic clinical research and authored the graduation thesis.
+        - title: Primary Areas of Focus:
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Clinical research and translational medical science.
+            - Patient care management and evidence-based therapeutics.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
