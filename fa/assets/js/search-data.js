@@ -41,9 +41,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/fa/fa/projects/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
+        },{id: "nav-curriculum-vitae",
+          title: "Curriculum Vitae",
+          description: "Curriculum Vitae of Mehrnaz Hosseinzadeh, M.D., detailing clinical experience, research publications, and academic background in computational neuroscience and medical technology.",
           section: "منوی navigation",
           handler: () => {
             window.location.href = "/fa/cv/";
@@ -500,14 +500,14 @@ ninja.data = [{
         title: 'Instagram',
         section: 'شبکه‌های اجتماعی',
         handler: () => {
-          window.open("https://instagram.com/https://www.instagram.com/mehrna.m/", "_blank");
+          window.open("https://instagram.com/mehrna.m", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'شبکه‌های اجتماعی',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/mehrnaz-hosseinzadeh/", "_blank");
+          window.open("https://www.linkedin.com/in/mehrnaz-hosseinzadeh", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -521,7 +521,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'شبکه‌های اجتماعی',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Mehrnaz-Hosseinzadeh?ev=hdr_xprf/", "_blank");
+          window.open("https://www.researchgate.net/profile/Mehrnaz-Hosseinzadeh?ev=hdr_xprf/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -542,7 +542,7 @@ ninja.data = [{
         title: 'telegram',
         section: 'شبکه‌های اجتماعی',
         handler: () => {
-          window.open("https://telegram.me/https://t.me/Hosseinzadeh_MN", "_blank");
+          window.open("https://telegram.me/Hosseinzadeh_MN", "_blank");
         },
       },{
           id: 'lang-en',
