@@ -12,7 +12,6 @@
     - name: Summary
       value: "Medical Doctor and Clinical Researcher specializing in Computational Neuroscience, Virtual Reality (VR) applications in healthcare, non-invasive brain stimulation, and neuroimaging."
 
-
 - title: Academic Interests
   type: nested_list
   contents:
@@ -22,12 +21,12 @@
         - Neuro-rehabilitation
         - Non-Invasive Brain Stimulation (tDCS/tACS)
         - Neuroimaging
-        
+
     - title: Medical Technology
       items:
         - Application of VR/AR in assessment and treatment of human conditions
         - Human-Computer Interaction (HCI)
-        
+
     - title: Artificial Intelligence
       items:
         - Medical data analysis
@@ -37,7 +36,6 @@
   type: list
   contents:
     - "<u>Hobbies:</u> Watercolor painting, Nature and camping, etc."
-
 
 - title: Education
   type: time_table
@@ -163,8 +161,6 @@
     - "<strong>Dr. Fatemeh Sadat Mirfazeli</strong> — Assistant Professor of Psychiatry, Iran University of Medical Sciences (Email: fsm6876@gmail.com)"
     - "<strong>Dr. Morteza Naserbakht</strong> — Assistant Professor of Social Medicine, Iran University of Medical Sciences (Email: mnaserbakht@gmail.com)"
 
-
-
 - title: Experience
   type: time_table
   contents:
@@ -220,4 +216,3 @@
     - year: 2029
       items:
         - Max Planck Medal
-
