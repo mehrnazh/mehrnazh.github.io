@@ -1,19 +1,43 @@
-- title: Basics
+- title: General Information
   type: map
   contents:
-    - name: Mehrnaz Hosseinzadeh, M.D.
-      label: Medical Doctor & Researcher
-      email: Mehrnazxhosseinzadeh@gmail.com
-      phone: "+98 9172095696"
-      location: Tehran, Iran
-      summary: "Medical Doctor and Clinical Researcher specializing in Computational Neuroscience, Virtual Reality (VR) applications in healthcare, non-invasive brain stimulation, and neuroimaging."
+    - name: Full Name
+      value: Mehrnaz Hosseinzadeh, M.D.
+    - name: Profession
+      value: Medical Doctor & Researcher
+    - name: Email
+      value: <a href="mailto:Mehrnazxhosseinzadeh@gmail.com">Mehrnazxhosseinzadeh@gmail.com</a>
+    - name: Location
+      value: Tehran, Iran
+    - name: Summary
+      value: "Medical Doctor and Clinical Researcher specializing in Computational Neuroscience, Virtual Reality (VR) applications in healthcare, non-invasive brain stimulation, and neuroimaging."
 
-- title: Research Interests
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Neuroscience & Neuropsychiatry
+      items:
+        - Cognitive assessment
+        - Neuro-rehabilitation
+        - Non-Invasive Brain Stimulation (tDCS/tACS)
+        - Neuroimaging
+        
+    - title: Medical Technology
+      items:
+        - Application of VR/AR in assessment and treatment of human conditions
+        - Human-Computer Interaction (HCI)
+        
+    - title: Artificial Intelligence
+      items:
+        - Medical data analysis
+        - AI-driven healthcare solutions
+
+- title: Other Interests
   type: list
   contents:
-    - "<strong>Neuroscience & Neuropsychiatry:</strong> Cognitive assessment, Neuro-rehabilitation, Non-Invasive Brain Stimulation (tDCS/tACS), Neuroimaging."
-    - "<strong>Medical Technology:</strong> Application of VR/AR in assessment and treatment of human conditions, Human-Computer Interaction (HCI)."
-    - "<strong>Artificial Intelligence:</strong> Medical data analysis, AI-driven healthcare solutions."
+    - "<u>Hobbies:</u> Watercolor painting, Nature and camping, etc."
+
 
 - title: Education
   type: time_table
@@ -21,6 +45,13 @@
     - title: Doctor of Medicine (M.D.)
       institution: Fasa University of Medical Sciences, Fasa, Iran
       year: 2016 – 2023
+      description:
+        - Completed full clinical training and medical internship across university teaching hospitals.
+        - Conducted academic clinical research and authored the graduation thesis.
+        - title: "Primary Areas of Focus:"
+          contents:
+            - Clinical research and translational medical science.
+            - Patient care management and evidence-based therapeutics.
 
 - title: Professional Experience
   type: time_table
@@ -132,36 +163,7 @@
     - "<strong>Dr. Fatemeh Sadat Mirfazeli</strong> — Assistant Professor of Psychiatry, Iran University of Medical Sciences (Email: fsm6876@gmail.com)"
     - "<strong>Dr. Morteza Naserbakht</strong> — Assistant Professor of Social Medicine, Iran University of Medical Sciences (Email: mnaserbakht@gmail.com)"
 
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Mehrnaz Hosseinzadeh
-    - name: Date of Birth
-      value: 21st Oct 1999
-    - name: Languages
-      value: English, Farsi, Spanish
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Doctor of Medicine (M.D.)
-      institution: Fasa University of Medical Sciences, Fasa, Iran
-      year: 2023
-      description:
-        - Completed full clinical training and medical internship across university teaching hospitals.
-        - Engaged in various research projects and published articles in reputable medical journals.
-        - Conducted academic clinical research and authored the graduation thesis.
-        - title: "Primary Areas of Focus:"
-          contents:
-            - Clinical research and translational medical science.
-            - Patient care management and evidence-based therapeutics.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
@@ -219,19 +221,3 @@
       items:
         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
