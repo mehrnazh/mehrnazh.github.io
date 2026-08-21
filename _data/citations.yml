@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-21'
 papers:
   o6KC83UAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -9,6 +9,10 @@ papers:
     citations: 13
     title: Sensitivity and specificity of chest CT scan based on RT-PCR in COVID-19 diagnosis
     year: '2021'
+  o6KC83UAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: "Deep Brain Stimulation for Alzheimer\u2019s Disease"
+    year: '2022'
   o6KC83UAAAAJ:Tyk-4Ss8FVUC:
     citations: 64
     title: 'The effects of transcranial direct-current stimulation (tDCS) on pain intensity of patients with fibromyalgia: a systematic review and meta-analysis'
