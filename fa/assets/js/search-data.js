@@ -418,16 +418,18 @@ ninja.data = [{
             window.location.href = "/fa/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "اخبار",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+      },{id: "news-انتشار-مقاله-پیش-چاپ-درباره-جعبه-ابزارهای-واقعیت-مجازی-در-پژوهش-های-روان-شناختی",
+          title: 'انتشار مقاله پیش‌چاپ درباره جعبه‌ابزارهای واقعیت مجازی در پژوهش‌های روان‌شناختی',
           description: "",
           section: "اخبار",handler: () => {
-              window.location.href = "/fa/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/fa/news/vr-scoping-review.fa/";
+            },},{id: "news-پایان-دوره-دستیاری-تدریس-در-مدرسه-تابستانی-آکادمی-نوروکانکت-۲۰۲۶",
+          title: 'پایان دوره دستیاری تدریس در مدرسه تابستانی آکادمی نوروکانکت ۲۰۲۶',
+          description: "",
+          section: "اخبار",handler: () => {
+              window.location.href = "/fa/news/neuroconnect-ta.fa/";
+            },},{id: "news-مقاله-جدید-ما-با-موضوع-بررسی-اثربخشی-تحریک-جریان-متناوب-فرامغزی-tacs-در-درمان-اختلال-وسواس-ocd-مقاوم-به-درمان-در-ژورنال-bmc-psychiatry-منتشر-شد-برای-اطلاعات-بیشتر-به-صفحه-انتشارات-من-مراجعه-کنید",
+          title: 'مقاله جدید ما با موضوع بررسی اثربخشی تحریک جریان متناوب فرامغزی (tACS) در...',
           description: "",
           section: "اخبار",},{id: "projects-project-1",
           title: 'project 1',

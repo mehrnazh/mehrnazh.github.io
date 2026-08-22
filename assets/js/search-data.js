@@ -425,16 +425,18 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+      },{id: "news-new-preprint-published-on-vr-toolboxes-for-psychological-research",
+          title: 'New Preprint Published on VR Toolboxes for Psychological Research',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/vr-scoping-review.en/";
+            },},{id: "news-completed-teaching-assistant-role-at-neuroconnect-academy-2026",
+          title: 'Completed Teaching Assistant Role at NeuroCONNECT Academy 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/neuroconnect-ta.en/";
+            },},{id: "news-our-new-case-series-evaluating-the-treatment-of-therapy-resistant-ocd-using-transcranial-alternating-current-stimulation-tacs-has-just-been-published-in-bmc-psychiatry-you-can-find-the-details-on-my-publications-page",
+          title: 'Our new case series evaluating the treatment of therapy-resistant OCD using transcranial alternating...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
